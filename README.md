@@ -291,7 +291,7 @@ A full-stack property listing application built around REST APIs and CRUD workfl
 ```text
 ┌─────────────────────────────────────────────┐
 │                                             │
-│  💻 Software Engineering Preparation       │
+│  💻 Software Engineering Preparation        │
 │  ⚙️ Backend Engineering                     │
 │  🧠 Data Structures & Algorithms            │
 │  🏗️ System Design                           │
@@ -304,29 +304,11 @@ A full-stack property listing application built around REST APIs and CRUD workfl
 
 My immediate goal is to become a **strong Software Engineer** with deep backend fundamentals and the ability to build complete production systems.
 
----
 
-
-
----
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
 # 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/rvranjan01">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvranjan01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvranjan01&layout=compact&langs_count=8&hide_border=true" />
-
-</a>
-
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -338,23 +320,6 @@ My immediate goal is to become a **strong Software Engineer** with deep backend 
 
 </div>
 
----
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-## 🟩 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/rvranjan01">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rvranjan01&hide_border=true&area=true" width="95%" />
-
-</a>
-
-</div>
-
----
 
 <!-- ===================== EDUCATION ===================== -->
 
